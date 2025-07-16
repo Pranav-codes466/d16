@@ -3,5 +3,8 @@ int main(){
 	int a=15,b=16;
 	int sum;
 	int smu=a+b;
+	int smu;
+	int smu=a+b;
+	int sub=a-b;
 	return 0;
 }
